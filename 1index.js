@@ -1,7 +1,7 @@
-let  nomeporco = porco
-let  vidaporco = 20
-let  ataqueporco = 2
+let  nomeP = porco
+let  vidaP= 20
+let  ataqueP = 2
 
-let  nomefazendeiro = fazendeiro
-let  vidafazendeiro = 20
-let  ataquefazendeiro = 2
+let  nomeF = fazendeiro
+let  vidaF = 20
+let  ataqueF = 2
