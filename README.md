@@ -1,7 +1,7 @@
                                           📝 O DESAFIO
 Vocês foram contratados para desenvolver a lógica de combate de um novo jogo de RPG indie. O objetivo é criar um script em JavaScript que simule uma luta entre um Herói e um Monstro no console do navegador. A batalha deve acontecer automaticamente até que um dos dois fique sem vida!
 
->>>PASSO A PASSO PARA O DESENVOLVIMENTO<<<
+>>>PASSO A PASSO PARA O DESENVOLVIMENTO
 
 Fase 1: Criando os Personagens (Variáveis)
 
