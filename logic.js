@@ -3,7 +3,7 @@ let vidaP = 10;
 let ataqueP = 2;
 
 let nomeF = "Fazendeiro Manoel";
-let vidaF = 10;
+let vidaF = 12;
 let ataqueF = 2;
 
 console.log(" A BATALHA COMEÇOU! ");
@@ -83,7 +83,7 @@ function acao(){
     if (vidaF <= 0) {
 
         console.log(` ${nomeF} foi massacrado!`);
-        console.log(`${nomeP} conseguiu sair viva da batalha, e foge da fazenda com seus filhotinhos, mas ao atravessarem a rua foram todos atropelados e morrerram!`);
+        console.log(`${nomeP} conseguiu sair viva da batalha, e foge da fazenda com seus filhotinhos!`);
 
         break;
     }
@@ -109,8 +109,8 @@ function acao(){
     // Verifica derrota
     if (vidaP <= 0) {
 
-        console.log(` ${nomeP} foi finalizada!`);
-        console.log(`${nomeF} limpou a porca e fez um belo almoço para a família que passava fome a dias`);
+        console.log(` ${nomeP} foi derrotada!`);
+        console.log(`${nomeF} venceu, e naquela noite, a família finalmente teve um belo almoço depois de dias difíceis.`);
 
         break;
     }
