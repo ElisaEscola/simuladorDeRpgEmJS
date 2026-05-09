@@ -21,7 +21,7 @@ function realizarAtaque(atacante, alvoNome, vidaAlvo, dano) {
 
     let novaVida = vidaAlvo - dano;
     
-    //Evita que a vida de qualquer um fique negativa ;)
+    //***Evita que a vida de qualquer um fique negativa ;)
     if (novaVida < 0) {
         novaVida = 0
     };
